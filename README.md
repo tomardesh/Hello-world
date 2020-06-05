@@ -1,7 +1,7 @@
 # Hello-world
 Learn and test 
 JetBrains projects 
-  - readinility
+  - readibility
   - encyption 
   @me setup github 
   
